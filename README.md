@@ -1,6 +1,6 @@
 # 👋 Hello everyone!
 I'm Nguyễn Tư Dũng, a 12th-grade student who is passionate about programming.
-I hope to get into the University of Engineering and Technology – Vietnam National University, Hanoi, where I can study and develop creative projects that are useful to the community.
+I hope to get into the UET (University of Engineering and Technology – Vietnam National University, Hanoi) , where I can study and develop creative projects that are useful to the community.
 I'm very glad to connect, exchange knowledge, and learn from everyone!
 
 # 🌐 Socials:
