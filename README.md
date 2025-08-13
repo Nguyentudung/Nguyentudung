@@ -1,3 +1,10 @@
+<!-- Stats Card -->
+![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyentudung&show_icons=true&theme=dark)
+
+<!-- Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyentudung&layout=compact&theme=dark)
+
+---
 # 👋 Hello everyone!
 I'm Nguyễn Tư Dũng, a 12th-grade student with a strong passion for programming.
 I aspire to study Computer Science at the University of Engineering and Technology (UET), Vietnam National University, Hanoi, where I hope to learn and build creative projects that benefit the community.
