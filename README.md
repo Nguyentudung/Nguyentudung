@@ -1,8 +1,5 @@
 <!-- Stats Card -->
-![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyentudung&show_icons=true&theme=dark)
-
-<!-- Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyentudung&layout=compact&theme=dark)
+![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyentudung&show_icons=true&theme=dark) <!-- Languages Card --> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyentudung&layout=compact&theme=dark)
 
 ---
 # 👋 Hello everyone!
