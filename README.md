@@ -22,7 +22,7 @@
   <tr>
     <td width="110" align="center">
       <a href="https://ptit.edu.vn/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_PTIT_University.png/600px-Logo_PTIT_University.png" width="85" alt="PTIT Logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/vi/1/1d/Logo_PTIT_University.png" width="85" alt="PTIT Logo" />
       </a>
     </td>
     <td>
@@ -40,7 +40,6 @@
 
 <div align="center">
 
-<!-- Hiển thị icon gọn gàng, hiện đại thay vì badge chữ dài dòng -->
 <img src="https://skillicons.dev/icons?i=rust,cpp,ts,py,go,dart&perline=6" /><br/>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,threejs,linux&perline=6" /><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,sqlite,mysql,docker,aws,git&perline=6" />
@@ -52,11 +51,9 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <!-- Thẻ thống kê tổng quan & Ngôn ngữ (tự động co giãn cân đối 2 cột) -->
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nguyentudung&theme=github_dark" />
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nguyentudung&theme=github_dark" />
   <br/>
-  <!-- Biểu đồ đóng góp 3D/Isometric (đẹp và mới hơn hẳn streak cũ) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyentudung&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="95%" />
 </div>
 
