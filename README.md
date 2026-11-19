@@ -22,16 +22,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Veyra](https://github.com/Nguyentudung)** | Fast, native desktop image & media viewer featuring frosted-glass overlays, smooth zoom/panning, and custom window controls. | `Rust` `Rune UI` `Slint` |
-| **[e2m (Easy Money Manager)](https://github.com/Nguyentudung)** | Minimalist personal finance & multi-wallet expense tracker with local persistence and privacy masking. | `Flutter` `Dart` `SQLite` |
-| **[JellioEdu](https://github.com/Nguyentudung)** | Full-stack online exam preparation & anti-cheating proctoring platform with automated `.docx` parsing and payment integration. | `React` `TypeScript` `FastAPI` `Go` |
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -68,10 +58,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nguyentudung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyentudung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nguyentudung&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nguyentudung&theme=github_dark" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nguyentudung&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyentudung&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
