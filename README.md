@@ -22,7 +22,7 @@
   <tr>
     <td width="110" align="center">
       <a href="https://ptit.edu.vn/">
-        <img src="https://upload.wikimedia.org/wikipedia/vi/1/1d/Logo_PTIT_University.png" width="85" alt="PTIT Logo" />
+        <img src="[https://upload.wikimedia.org/wikipedia/vi/1/1d/Logo_PTIT_University.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_PTIT_University.png/1280px-Logo_PTIT_University.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" width="85" alt="PTIT Logo" />
       </a>
     </td>
     <td>
