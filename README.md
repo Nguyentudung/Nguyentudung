@@ -22,7 +22,7 @@
   <tr>
     <td width="110" align="center">
       <a href="https://ptit.edu.vn/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_PTIT_University.png" width="85" alt="PTIT Logo" />
+        <img src="https://daihoctructuyen.com.vn/wp-content/uploads/2025/03/hoc-vien-cong-nghe-buu-chinh-vien-thong-1.png" width="85" alt="PTIT Logo" />
       </a>
     </td>
     <td>
