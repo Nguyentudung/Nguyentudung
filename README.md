@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Nguyễn Tư Dũng 👋
+<!-- Banner tiêu đề động sắc nét -->
+<a href="https://github.com/Nguyentudung">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nguy%E1%BB%85n+T%C6%B0+D%C5%A9ng+%F0%9F%91%8B;IT+Student+%40+PTIT+%7C+Full-Stack+%26+Native+Dev;Building+fast%2C+minimalist+software." alt="Typing SVG" />
+</a>
 
-**Information Technology Student @ PTIT | Full-Stack, Mobile & Native Desktop Developer**
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.tu.dung.186523)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nguyentudung2k8)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nguyentudung.2k8)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nguyentudung208)
+<p align="center">
+  <a href="https://facebook.com/nguyen.tu.dung.186523"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/nguyentudung2k8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@nguyentudung.2k8"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://youtube.com/@nguyentudung208"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -15,57 +18,50 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing a degree in **Information Technology** at **Posts and Telecommunications Institute of Technology (PTIT)**, Hanoi.
-- 💻 Passionate about building **high-performance native desktop tools**, **cross-platform mobile apps**, and **minimalist web experiences** with clean UI/UX.
-- 🌱 Currently exploring **Rust GUI frameworks**, low-level system optimization on Linux, and quantitative market analysis.
-- ⚡ Fun fact: Obsessed with pixel-perfect glassmorphism interfaces and competitive algorithmic problem-solving.
+<table>
+  <tr>
+    <td width="110" align="center">
+      <a href="https://ptit.edu.vn/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_PTIT_University.png/600px-Logo_PTIT_University.png" width="85" alt="PTIT Logo" />
+      </a>
+    </td>
+    <td>
+      🎓 <b>Information Technology</b> undergraduate at <b>Posts and Telecommunications Institute of Technology (PTIT)</b>, Hanoi.<br/>
+      💻 Focused on <b>Native Desktop Applications</b>, <b>Cross-Platform Mobile</b>, and <b>Full-Stack Web Engineering</b>.<br/>
+      🌱 Exploring <b>Rust GUI ecosystems</b>, Linux performance tuning, and quantitative market modeling.<br/>
+      ⚡ Obsessed with clean architecture, pixel-aligned UI/UX, and algorithmic problem-solving.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-**Frontend & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
-
-**Backend, Cloud & Tools**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nguyentudung&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nguyentudung&theme=github_dark" />
+
+<!-- Hiển thị icon gọn gàng, hiện đại thay vì badge chữ dài dòng -->
+<img src="https://skillicons.dev/icons?i=rust,cpp,ts,py,go,dart&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,threejs,linux&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite,mysql,docker,aws,git&perline=6" />
+
+</div>
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <!-- Thẻ thống kê tổng quan & Ngôn ngữ (tự động co giãn cân đối 2 cột) -->
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nguyentudung&theme=github_dark" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nguyentudung&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyentudung&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+  <!-- Biểu đồ đóng góp 3D/Isometric (đẹp và mới hơn hẳn streak cũ) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nguyentudung&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nguyentudung&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nguyentudung&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views" />
 </div>
