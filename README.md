@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="./github-user-contribution.svg" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="acrade-contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="acrade-contributions-light.svg">
+  <img src="acrade-contributions-light.svg" width="100%" alt="GitHub Contributions">
+</picture>
+
 # 💫 About Me:
 🎓 IT student at Posts and Telecommunications Institute of Technology (PTIT), Hanoi.<br><br>💻 Interested in systems programming, native desktop applications, and software engineering.<br><br>🦀 Currently exploring Rust, application architecture, and performance optimization.<br><br>🐧 Linux user with a strong interest in building efficient, minimal, and well-designed software.
 
