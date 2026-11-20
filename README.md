@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./github-user-contribution.svg" width="100%" />
+</div>
 # 💫 About Me:
 🎓 IT student at Posts and Telecommunications Institute of Technology (PTIT), Hanoi.<br><br>💻 Interested in systems programming, native desktop applications, and software engineering.<br><br>🦀 Currently exploring Rust, application architecture, and performance optimization.<br><br>🐧 Linux user with a strong interest in building efficient, minimal, and well-designed software.
 
